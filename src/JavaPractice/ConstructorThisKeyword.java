@@ -15,7 +15,12 @@ public class ConstructorThisKeyword {
 	}
 	public static void main(String[] args) {
 		
-		ConstructorThisKeyword obj=new ConstructorThisKeyword("Rockville", 20852);
+		ConstructorThisKeyword obj=new ConstructorThisKeyword("Rockville", 20852);// before using this key word it was calling from local variable
 	}
 
 }
+// Duplicate constructor now allowed -we need to overload it
+// To initialize global veritable we need to use this keyword:
+// " this "keyword used to initialize the class variable in the constructor
+// this.globalvariable=localvariable.
+//
