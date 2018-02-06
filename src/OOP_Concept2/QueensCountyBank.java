@@ -1,4 +1,4 @@
-package JavaPractice;
+package OOP_Concept2;
 
 public interface QueensCountyBank {
 	

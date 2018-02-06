@@ -1,6 +1,8 @@
-package JavaPractice;
+package OOP_Concept2;
 
 public interface CapitalOneBank {
+	
+	int minBAl= 100; // this variable by nature  static in nature 
 	
 	public void deposit();
 	

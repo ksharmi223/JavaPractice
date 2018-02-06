@@ -56,7 +56,7 @@ public class DinamicArray {
 
 //raw type array- mean we can store any type value- we should define the generic- is the term where we have define what kind of data we will store
 
-// to print all the value in the Arrylist: we have to use for loop because arrayList also store the value based on indexes.
+// to print all the value in the Arraylist: we have to use for loop because arrayList also store the value based on indexes.
 
 //
 
